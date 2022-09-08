@@ -5,4 +5,9 @@ public class YatziTest {
      void throwDice(){
 
     }
+
+    @Test
+    void throwDiceTestTwo(){
+
+    }
 }
