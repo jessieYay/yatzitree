@@ -4,7 +4,10 @@ public class YatziTest {
     @Test
      void throwDice(){
 
+    }
 
+    @Test
+    void throwTwo(){
 
     }
 }
