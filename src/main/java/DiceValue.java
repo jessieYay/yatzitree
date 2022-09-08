@@ -1,4 +1,4 @@
-public enum DiceNumber {
+public enum DiceValue {
     NUMBER_ONE,
     NUMBER_TWO,
     NUMBER_THREE,
