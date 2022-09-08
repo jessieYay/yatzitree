@@ -37,9 +37,9 @@ Oppgaven dere skal løse er Yatzi: Gitt en kategori og en liste med terninger, b
 * [x] Den som ikke opprettet pull requesten kan skrive noen review-kommentarer av pull requesten
 * [x] Merge pull requesten
 * [x] Se på commit-loggen hvordan pull requesten inngår i Git loggen
-* [ ] Opprett en ny branch for `feature/score-pair` (denne bør ha minst to test-cases for å sikre at man ikke hardkoder svaret)
-* [ ] Prøv å opprette en pull request og Squash Merge denne
-* [ ] Sammenlign hvordan de to måtene å merge ser annerledes ut i Git loggen
+* [x] Opprett en ny branch for `feature/score-pair` (denne bør ha minst to test-cases for å sikre at man ikke hardkoder svaret)
+* [x] Prøv å opprette en pull request og Squash Merge denne
+* [x] Sammenlign hvordan de to måtene å merge ser annerledes ut i Git loggen
 
 
 [![Java CI with Maven](https://github.com/jessieYay/yatzitree/actions/workflows/maven.yml/badge.svg)](https://github.com/jessieYay/yatzitree/actions/workflows/maven.yml)
