@@ -40,3 +40,6 @@ Oppgaven dere skal løse er Yatzi: Gitt en kategori og en liste med terninger, b
 * [ ] Opprett en ny branch for `feature/score-pair` (denne bør ha minst to test-cases for å sikre at man ikke hardkoder svaret)
 * [ ] Prøv å opprette en pull request og Squash Merge denne
 * [ ] Sammenlign hvordan de to måtene å merge ser annerledes ut i Git loggen
+
+
+[![Java CI with Maven](https://github.com/jessieYay/yatzitree/actions/workflows/maven.yml/badge.svg)](https://github.com/jessieYay/yatzitree/actions/workflows/maven.yml)
